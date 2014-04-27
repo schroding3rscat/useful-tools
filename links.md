@@ -1,28 +1,28 @@
 # Many useful links
-http://thetoolbox.cc/
+http://thetoolbox.cc/  
 
 # Colors
-http://flatuicolors.com/
-
+http://flatuicolors.com/  
+  
 # C# Extension Methods Library
-http://jonathanmagnan.com/extension-methods-library/
+http://jonathanmagnan.com/extension-methods-library/  
 
 # UI prototyping
-https://www.easel.io/
-https://app.divshot.com/
-http://ninjamock.com/
-
+https://www.easel.io/  
+https://app.divshot.com/  
+http://ninjamock.com/  
+  
 # Code hosting, source control
-https://bitbucket.org/
-https://github.com/
-http://tfs.visualstudio.com/
-http://www.sourcetreeapp.com/
+https://bitbucket.org/  
+https://github.com/  
+http://tfs.visualstudio.com/  
+http://www.sourcetreeapp.com/  
 
 # Payments
-https://stripe.com/
-https://www.2checkout.com/
-https://paysio.com/
-http://xsolla.com
+https://stripe.com/  
+https://www.2checkout.com/  
+https://paysio.com/  
+http://xsolla.com  
 
 # Application hosting
 https://modulus.io/
